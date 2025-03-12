@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @SkyWat3r twitch : Skywat3r_yt
-- 👀 I’m interested in minecraft
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+viens yt or ban : Bazinz1
 
 <!---
 SkyWat3r/SkyWat3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
